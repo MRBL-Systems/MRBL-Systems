@@ -1,4 +1,4 @@
-# Hi there and Welcome to MRBL Systems! 👋
+# Welcome to MRBL Systems! 👋
 
 ## Tailored AI Solutions for Your Business:
 - At MRBL Systems, we specialize in providing innovative artificial intelligence (AI) solutions for businesses and organizations of all sizes. Our team of AI engineers are dedicated to leveraging cutting-edge technology to create personalized solutions that help businesses improve their efficiency, productivity, and bottom line.
