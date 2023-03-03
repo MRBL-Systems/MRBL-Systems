@@ -10,7 +10,7 @@
 - Our team is lean and agile, allowing us to work closely with our clients and deliver solutions more effectively. We may be small, but our team consists of the best and brightest with expertise in a variety of machine learning focuses such as natural language processing, computer vision, and more! Being lean allows us to make decisions faster and without bureaucracy, all while providing personalized attention and high-quality solutions
 
 ## Partnering with Our Clients for Digital Transformation and Success:
-- We believe that AI has the power to transform the way businesses operate, and we are passionate about helping our clients harness this technology to drive growth and success. If you're looking for a partner who can helo you unlock the full potential of AI, then look no further. Contact us today for a free consultation and to learn how we can help your business thrive in the digital age.
+- We believe that AI has the power to transform the way businesses operate, and we are passionate about helping our clients harness this technology to drive growth and success. If you're looking for a partner who can help you unlock the full potential of AI, then look no further. Contact us today for a free consultation and to learn how we can help your business thrive in the digital age.
 
 <!--
 **MRBL-Systems/MRBL-Systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
